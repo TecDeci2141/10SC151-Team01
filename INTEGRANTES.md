@@ -5,7 +5,5 @@
 
 |Benjamin Fabian Gabino    |10240036  | benjasfabian777-glitch
 
-|Emanuel Domingo Bernal    |10240043  | manued7691244@gmail.com
-
-
+|Emanuel Domingo Bernal    |10240043  | Emanuel20061217
 
